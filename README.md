@@ -10,4 +10,4 @@ Steps - 1. Here in this Jupyter notebook, I added the hyperlink to Meta-Movies-D
                                                                       m is the minimum votes required to be listed in the chart;
                                                                       R is the average rating of the movie; And
                                                                       C is the mean vote across the whole report
-                                                                      You already have the values to v (vote_count) a
+                                                                      
